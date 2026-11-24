@@ -1,0 +1,4 @@
+/* bridge.lcd sizes the canvas to whole LCD pixels, and the browser must not smooth them */
+#game {
+  image-rendering: pixelated;
+}
